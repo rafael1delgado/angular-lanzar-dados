@@ -1,6 +1,6 @@
 # AngularDados
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+App de Lanzar Dos Dados implementado en Angular 12.
 
 ## Development server
 
