@@ -1,6 +1,6 @@
-# Angular Dados
+# Angular Lanzar Dados
 
-App de Lanzar Dos Dados implementado en Angular 12.
+App de Lanzar Dos Dados implementado en Angular.
 
 ## Configuración
 
